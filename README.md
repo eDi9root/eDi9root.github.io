@@ -11,7 +11,6 @@
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github2.svg">
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html2.svg">
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript2.svg">
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html2.svg">
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react2.svg">
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode2.svg">
   
