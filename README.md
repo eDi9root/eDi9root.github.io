@@ -16,11 +16,6 @@
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode2.svg">
 </p>
 
-<p>
-  <a href="edi9root.github.io/eDi9.github.io/" />
-</p>
-
-
 <p align="center">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LicenceGPLv3/licencegplv31.svg">
 </p>
