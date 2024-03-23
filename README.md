@@ -1,4 +1,4 @@
-<h2 align="center">Personal Website</h2>
+<h2 align="center">Personal Website v1.0</h2>
 
 <p align="center">
   <img src=https://ziadoua.github.io/m3-Markdown-Badges/badges/MyPortfolio/myportfolio2.svg> 
