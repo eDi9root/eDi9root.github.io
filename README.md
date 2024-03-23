@@ -18,6 +18,6 @@
 
 
 <img src="PUT THE LINK HERE">
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LicenceGPLv3/licencegplv31.svg">
+<img align="center" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LicenceGPLv3/licencegplv31.svg">
 
 
