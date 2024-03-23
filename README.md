@@ -16,9 +16,6 @@
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode2.svg">
 </p>
 
-
-<img src="PUT THE LINK HERE">
-
 <p align="center">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LicenceGPLv3/licencegplv31.svg">
 </p>
