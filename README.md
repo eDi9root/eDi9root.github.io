@@ -7,6 +7,7 @@
 <img src="PUT THE LINK HERE">
 <img src="PUT THE LINK HERE">
 </h2>
+<hr />
 
 <img src="PUT THE LINK HERE">
 
