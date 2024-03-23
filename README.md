@@ -3,7 +3,8 @@
 <p align="center">
   <img src=https://ziadoua.github.io/m3-Markdown-Badges/badges/MyPortfolio/myportfolio2.svg> 
 </p>
-![Preview](https://github.com/eDi9root/eDi9.github.io/blob/main/FirstPage.png)
+
+![Preview](FirstPage.png)
 
 <p align="center">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css2.svg">
