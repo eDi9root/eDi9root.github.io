@@ -24,4 +24,6 @@
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LicenceGPLv3/licencegplv31.svg">
 </p>
 
+<p align="center">
+</p>
 
